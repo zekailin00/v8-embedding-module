@@ -1,4 +1,4 @@
-project(embeding-test)
+project(embedding-test)
 cmake_minimum_required(VERSION 3.24)
 
 add_library(v8 STATIC IMPORTED)
